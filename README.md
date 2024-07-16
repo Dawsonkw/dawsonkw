@@ -1,4 +1,3 @@
-## Hi there 👋
 
 [![Dawson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawsonkw)](https://github.com/anuraghazra/github-readme-stats)
 <!--
