@@ -1,5 +1,7 @@
 
 [![Dawson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dawsonkw)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Dawson's GitHub stats](https://github-readme-repocard.vercel.app/api?username=Dawsonkw)](https://github.com/anuraghazra/github-readme-repocard)
 <!--
 **Dawsonkw/dawsonkw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
