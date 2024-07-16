@@ -1,6 +1,10 @@
-[![What I code in](https://github-readme-stats.vercel.app/api/top-langs/?username=dawsonkw&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<div style="text-align: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawsonkw&layout=donut" alt="What I code in">
+  </a>
+</div>
 <!--
 **Dawsonkw/dawsonkw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
